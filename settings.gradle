@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "LogCat"
 include ':app'
 include ':logcat'
+include ':mylibrary'
